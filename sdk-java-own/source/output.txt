@@ -1,0 +1,19 @@
+36
+flavor5 6
+flavor6 3
+flavor9 0
+flavor10 3
+flavor11 9
+flavor15 15
+
+10
+1 flavor15 2
+2 flavor15 2
+3 flavor15 2
+4 flavor15 2
+5 flavor15 2
+6 flavor15 2
+7 flavor15 2
+8 flavor10 3 flavor11 2 flavor15 1
+9 flavor11 7
+10 flavor5 6 flavor6 3
